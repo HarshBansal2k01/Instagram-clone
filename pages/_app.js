@@ -1,5 +1,5 @@
 // importing from global css
-import '../style/globals.css'
+import '../styles/globals.css'
 // import type { AppProps } from 'next/app'
 import { SessionProvider } from 'next-auth/react'
 import { RecoilRoot } from 'recoil'
